@@ -2,4 +2,6 @@
 * BI
 * Business data analysis
 
-### 다양한 경로에서의 데이터 임포트
+data import : 데이터를 다양하게 활용할 수 있는 데이터 import 단계
+
+data visualization : 시각화
