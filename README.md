@@ -1,4 +1,5 @@
-# ml-basic
-ML basic
+# data-analysis
+* BI
+* Business data analysis
 
-### 어떻게 하는거지?
+### 다양한 경로에서의 데이터 임포트
