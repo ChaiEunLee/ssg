@@ -1,5 +1,5 @@
 # SSG.COM Data Analyst
-## 2020.03 ~ 2022.08
+**2020.03 ~ 2022.08**
 
 <p> <b> Tech Skills </b></p>
 <p>
