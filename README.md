@@ -1,4 +1,6 @@
 # SSG.COM Data Analyst
+## 2020.03 ~ 2022.08
+
 <p> <b> Tech Skills </b></p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
